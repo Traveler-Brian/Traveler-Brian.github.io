@@ -1,6 +1,6 @@
 ## Downloads
-[Download here](https://github.com/Traveler-Brian/Louhau-Browser/releases/latest/download/LouhauBrowser-DarwinX64.macOS.zip)
-You can use the [editor on GitHub](https://github.com/Traveler-Brian/Traveler-Brian.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can download [macOS version here](https://github.com/Traveler-Brian/Louhau-Browser/releases/latest/download/LouhauBrowser-DarwinX64.macOS.zip) and [windows version here](https://github.com/Traveler-Brian/Louhau-Browser/releases/latest/download/LouhauBrowser-win64.windows.zip).
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
