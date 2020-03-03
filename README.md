@@ -1,5 +1,5 @@
-## Welcome to GitHub Pages
-
+## Downloads
+[Download here](/Traveler-Brian/Louhau-Website/releases/latest/download/macOS.zip)
 You can use the [editor on GitHub](https://github.com/Traveler-Brian/Traveler-Brian.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
